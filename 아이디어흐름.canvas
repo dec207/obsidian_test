@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e610e2e06e7b7361","x":-180,"y":-340,"width":460,"height":440,"type":"group","label":"그룹1"},
+		{"id":"96d061a5773950a5","x":-160,"y":-240,"width":290,"height":200,"type":"group","label":"그룹2"},
+		{"id":"9cf13ffbed0b6dee","x":-140,"y":-220,"width":250,"height":60,"type":"text","text":"아이디어1"},
+		{"id":"5cfaa463b71a2bda","x":-140,"y":-120,"width":250,"height":60,"type":"text","text":"아이디어2"},
+		{"id":"09718e954bc614e3","x":20,"y":20,"width":250,"height":60,"type":"text","text":"아이디어3"}
+	],
+	"edges":[
+		{"id":"862854d6bdd15c84","fromNode":"9cf13ffbed0b6dee","fromSide":"right","toNode":"5cfaa463b71a2bda","toSide":"right"},
+		{"id":"574a7fe3db057c10","fromNode":"96d061a5773950a5","fromSide":"bottom","toNode":"09718e954bc614e3","toSide":"top"}
+	]
+}

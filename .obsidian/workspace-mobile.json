@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "6cfc9dbb9e61b78f",
+    "type": "split",
+    "children": [
+      {
+        "id": "48cb3538db010215",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4b738ae3354189a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "아이디어흐름.canvas",
+                "viewState": {
+                  "x": 50,
+                  "y": -120,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "아이디어흐름"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "493010b28d63fac3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8a30e90dbec10f2f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
+        }
+      },
+      {
+        "id": "797279dde6b71b86",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "검색"
+        }
+      },
+      {
+        "id": "064b2422ee5b05a8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "태그"
+        }
+      },
+      {
+        "id": "7186c81d67d744d8",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "모든 속성"
+        }
+      },
+      {
+        "id": "c38b7f8af4f3c815",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "북마크"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0a6162cbcda727b3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c3d6dde479be57c4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "아이디어흐름.canvas",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "백링크"
+        }
+      },
+      {
+        "id": "0818c4a4c94aa38a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "아이디어흐름.canvas",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "나가는 링크"
+        }
+      },
+      {
+        "id": "419af82d4077e87d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "아이디어흐름.canvas",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "개요"
+        }
+      },
+      {
+        "id": "17afcd3a20c3e3f8",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "17afcd3a20c3e3f8",
+  "lastOpenFiles": [
+    "아이디어흐름.canvas",
+    "Test Idea.md"
+  ]
+}
