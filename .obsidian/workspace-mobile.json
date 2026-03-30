@@ -117,7 +117,7 @@
           "state": {
             "file": "아이디어흐름.canvas",
             "collapseAll": false,
-            "extraContext": false,
+            "extraContext": true,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
